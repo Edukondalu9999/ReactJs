@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "firstName": "Chandra",
+      "lastName": "Sekhar",
+      "emailId": "chandramca04@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "shiva",
+      "lastName": "yannam",
+      "emailId": "shiva@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Edukondalu",
+      "lastName": "Akanaboina",
+      "emailId": "edukondalu9999@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "Abhiram",
+      "lastName": "Akanaboina",
+      "emailId": "abhiramss143@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "Sevenhills",
+      "lastName": "Akanaboina",
+      "emailId": "edukondaluclassic@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "Charan",
+      "lastName": "Naga sai",
+      "emailId": "Charan567@gmail.com",
+      "id": 6
+    }
+  ]
+}
